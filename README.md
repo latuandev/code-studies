@@ -1,2 +1,2 @@
 # CodeStudio
-Link trang web: https://codestudio.epizy.com/
+Link trang web: https://codestudies.epizy.com/
