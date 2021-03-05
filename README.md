@@ -1,3 +1,6 @@
 # CodeStudio
 Link trang web: https://codestudies.epizy.com/
-admin123123Admin account: admin | admin123123
+<br>
+Admin account:
+<br>
+email: admin | pass: admin123123
