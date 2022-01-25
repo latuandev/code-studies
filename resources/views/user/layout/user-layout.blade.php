@@ -7,13 +7,13 @@
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="robots" content="all,follow">
-    <link rel="stylesheet" href={{ asset('user/layout/vendor/bootstrap/css/bootstrap.min.css') }}>
-    <link rel="stylesheet" href={{ asset('user/layout/vendor/font-awesome/css/font-awesome.min.css') }}>
-    <link rel="stylesheet" href={{ asset('user/layout/css/fontastic.css') }}>
+    <link rel="stylesheet" href={{ asset('public/user/layout/vendor/bootstrap/css/bootstrap.min.css') }}>
+    <link rel="stylesheet" href={{ asset('public/user/layout/vendor/font-awesome/css/font-awesome.min.css') }}>
+    <link rel="stylesheet" href={{ asset('public/user/layout/css/fontastic.css') }}>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700">
-    <link rel="stylesheet" href={{ asset('user/layout/vendor/@fancyapps/fancybox/jquery.fancybox.min.css') }}>
-    <link rel="stylesheet" href={{ asset('user/layout/css/style.default.css') }} id="theme-stylesheet">
-    <link rel="stylesheet" href={{ asset('user/layout/css/custom.css') }}>
+    <link rel="stylesheet" href={{ asset('public/user/layout/vendor/@fancyapps/fancybox/jquery.fancybox.min.css') }}>
+    <link rel="stylesheet" href={{ asset('public/user/layout/css/style.default.css') }} id="theme-stylesheet">
+    <link rel="stylesheet" href={{ asset('public/user/layout/css/custom.css') }}>
     <link rel="shortcut icon" href="favicon.png">
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src='https://kit.fontawesome.com/a076d05399.js'></script>
@@ -39,11 +39,11 @@
         </div>
     </div>
     </footer>
-    <script src={{ asset('user/layout/vendor/jquery/jquery.min.js') }}></script>
-    <script src={{ asset('user/layout/vendor/popper.js/umd/popper.min.js') }}> </script>
-    <script src={{ asset('user/layout/vendor/bootstrap/js/bootstrap.min.js') }}></script>
-    <script src={{ asset('user/layout/vendor/jquery.cookie/jquery.cookie.js') }}> </script>
-    <script src={{ asset('user/layout/vendor/@fancyapps/fancybox/jquery.fancybox.min.js') }}></script>
-    <script src={{ asset('user/layout/js/front.js') }}></script>
+    <script src={{ asset('public/user/layout/vendor/jquery/jquery.min.js') }}></script>
+    <script src={{ asset('public/user/layout/vendor/popper.js/umd/popper.min.js') }}> </script>
+    <script src={{ asset('public/user/layout/vendor/bootstrap/js/bootstrap.min.js') }}></script>
+    <script src={{ asset('public/user/layout/vendor/jquery.cookie/jquery.cookie.js') }}> </script>
+    <script src={{ asset('public/user/layout/vendor/@fancyapps/fancybox/jquery.fancybox.min.js') }}></script>
+    <script src={{ asset('public/user/layout/js/front.js') }}></script>
 </body>
 </html>

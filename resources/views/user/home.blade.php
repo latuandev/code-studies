@@ -160,10 +160,10 @@
                     </div>
                 </div>
             </div>
-            <div class="image col-lg-5"><img src="user/layout/img/img_pl.jpg" alt="..."></div>
+            <div class="image col-lg-5"><img src="public/user/layout/img/img_pl.jpg" alt="..."></div>
         </div>
         <div class="row d-flex align-items-stretch">
-            <div class="image col-lg-5"><img src="user/layout/img/img_pl2.png" alt="..."></div>
+            <div class="image col-lg-5"><img src="public/user/layout/img/img_pl2.png" alt="..."></div>
             <div class="text col-lg-7">
                 <div class="text-inner d-flex align-items-center">
                     <div class="content">
@@ -188,7 +188,7 @@
                     </div>
                 </div>
             </div>
-            <div class="image col-lg-5"><img src="user/layout/img/img_pl3.jpg" alt="..."></div>
+            <div class="image col-lg-5"><img src="public/user/layout/img/img_pl3.jpg" alt="..."></div>
         </div>
     </div>
 </section>

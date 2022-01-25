@@ -83,7 +83,7 @@
                                     <!-- Đã có ảnh đại diện -->
                                     <div id="user" style="width:100%">
                                         <div id="avatar">
-                                            <a href="#"><img src="../public/user/img/{{$user['avatar']}}" data-toggle="modal" data-target="#upload_file" class="rounded-circle" width="120px" height="120px"/></a><br><br>
+                                            <a href="#"><img src="public/user/img/{{$user['avatar']}}" data-toggle="modal" data-target="#upload_file" class="rounded-circle" width="120px" height="120px"/></a><br><br>
                                         </div>
                                         <b>{{$user['name']}}</b><br>
                                         Tuổi: {{$user['age']}}<br>
