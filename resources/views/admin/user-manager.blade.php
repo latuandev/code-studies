@@ -38,7 +38,7 @@
                                 <i class="fas fa-user-circle fa-4x"></i><br>
                                 {{$item->name}}
                             @else
-                                <img src="user/img/{{$item->avatar}}" class="rounded-circle" style="width: 70px; height: 70px"><br>
+                                <img src="public/user/img/{{$item->avatar}}" class="rounded-circle" style="width: 70px; height: 70px"><br>
                                 {{$item->name}}
                             @endif
                         </td>
